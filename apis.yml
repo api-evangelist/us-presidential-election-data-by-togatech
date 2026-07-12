@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://uselection.togatech.org/api/
 common:
+  - type: DomainSecurity
+    url: security/us-presidential-election-data-by-togatech-domain-security.yml
   - type: Website
     url: https://uselection.togatech.org/api/
   - type: PublicAPIsListing
