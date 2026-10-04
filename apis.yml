@@ -39,7 +39,6 @@ apis:
   - name: US Presidential Election Data by TogaTech
     description: "Basic candidate data and live electoral vote counts for top two parties in US presidential election"
     humanURL: https://uselection.togatech.org/api/
-    baseURL: https://uselection.togatech.org/api/
     tags:
       - Government
     properties:
